@@ -18,3 +18,17 @@
     transition: all .9s;
 }
 
+.icon-menu{
+    color: #fff;
+    font-size: 30px;
+
+}
+
+.icon-cross{
+    color: #fff;
+    font-size: 30px;
+    position: absolute;
+    top:26px;
+    left: 26px;
+}
+
